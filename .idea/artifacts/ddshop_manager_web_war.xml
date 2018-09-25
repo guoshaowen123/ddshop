@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ddshop-manager-web:war">
+    <output-path>$PROJECT_DIR$/ddshop-manager/ddshop-manager-web/target</output-path>
+    <root id="archive" name="ddshop-manager-web.war">
+      <element id="artifact" artifact-name="ddshop-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ddshop-common/ddshop-common.iml" filepath="$PROJECT_DIR$/ddshop-common/ddshop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-manager/ddshop-manager.iml" filepath="$PROJECT_DIR$/ddshop-manager/ddshop-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-manager/ddshop-manager-dao/ddshop-manager-dao.iml" filepath="$PROJECT_DIR$/ddshop-manager/ddshop-manager-dao/ddshop-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-manager/ddshop-manager-interface/ddshop-manager-interface.iml" filepath="$PROJECT_DIR$/ddshop-manager/ddshop-manager-interface/ddshop-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-manager/ddshop-manager-pojo/ddshop-manager-pojo.iml" filepath="$PROJECT_DIR$/ddshop-manager/ddshop-manager-pojo/ddshop-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-manager/ddshop-manager-service/ddshop-manager-service.iml" filepath="$PROJECT_DIR$/ddshop-manager/ddshop-manager-service/ddshop-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-manager/ddshop-manager-web/ddshop-manager-web.iml" filepath="$PROJECT_DIR$/ddshop-manager/ddshop-manager-web/ddshop-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-parent/ddshop-parent.iml" filepath="$PROJECT_DIR$/ddshop-parent/ddshop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-portal/ddshop-portal.iml" filepath="$PROJECT_DIR$/ddshop-portal/ddshop-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddshop-portal-web/ddshop-portal-web.iml" filepath="$PROJECT_DIR$/ddshop-portal-web/ddshop-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doit-portal-web/ddshop-portal-web.iml" filepath="$PROJECT_DIR$/doit-portal-web/ddshop-portal-web.iml" />
+    </modules>
+  </component>
+</project>
